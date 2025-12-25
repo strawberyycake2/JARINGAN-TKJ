@@ -1,0 +1,86 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background: #ffffff;
+  color: #1a1a1a;
+  max-width: 820px;
+  margin: auto;
+  padding: 20px;
+  line-height: 1.8;
+}
+
+/* JUDUL */
+h1 {
+  color: #003366;
+  margin-bottom: 8px;
+}
+
+h2 {
+  color: #004080;
+  margin-top: 28px;
+  margin-bottom: 10px;
+}
+
+h3 {
+  color: #004080;
+  margin-top: 18px;
+  margin-bottom: 6px;
+}
+
+/* SUBJUDUL */
+.subjudul {
+  font-size: 14px;
+  color: #555;
+  margin-bottom: 20px;
+}
+
+/* PARAGRAF */
+p {
+  margin-bottom: 12px;
+  text-align: justify;
+}
+
+/* LIST */
+ul {
+  margin-left: 20px;
+  margin-bottom: 12px;
+}
+
+li {
+  margin-bottom: 6px;
+}
+
+/* BLOK CONTOH */
+.contoh {
+  background: #f5f7fa;
+  border-left: 4px solid #003366;
+  padding: 12px;
+  margin: 16px 0;
+  font-size: 15px;
+}
+
+/* BLOK PENTING */
+.penting {
+  background: #fff3cd;
+  border-left: 4px solid #ff9800;
+  padding: 12px;
+  margin: 16px 0;
+  font-size: 15px;
+}
+
+/* LINK */
+a {
+  color: #003366;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* FOOTER */
+.footer {
+  text-align: center;
+  font-size: 12px;
+  color: #666;
+  margin-top: 40px;
+}
